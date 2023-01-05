@@ -1,0 +1,1 @@
+export const addPerson =userObj=>({type:'addPerson'})
